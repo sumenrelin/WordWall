@@ -118,3 +118,4 @@ contract WordWall is ERC721, Ownable {
         return _ownerOf(tokenId) != address(0);
     }
 }
+Type the library name to see available commands.
